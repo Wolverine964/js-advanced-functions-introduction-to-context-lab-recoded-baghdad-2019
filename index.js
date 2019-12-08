@@ -1,21 +1,12 @@
-// Your code here
+
 function createEmployeeRecord(emprec){
   let arr = {
-<<<<<<< HEAD
     "firstName": emprec[0],
     "familyName": emprec[1],
     "title": emprec[2],
     "payPerHour": emprec[3],
     "timeInEvents": [] ,
-    "timeOutEvents": [],
-=======
-    firstName: arr[0],
-    familyName: arr[1],
-    title: arr[2],
-    payPerHour:arr[3],
-    timeInEvents:[],
-    timeOutEvents:[]
->>>>>>> 4aa6a24e72afeba9b97392c8a23c7f79d70bfe57
+    "timeOutEvents: [],
   };
 return arr}
 
